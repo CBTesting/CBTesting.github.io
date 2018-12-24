@@ -1,2 +1,4 @@
 # CBTesting.github.io
-testing the site for preview 
+No hosting?
+
+Dw just host on github lol free until read for production
